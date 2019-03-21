@@ -377,6 +377,7 @@ textarea:focus {
 .popup__pictures li {
   display: inline-block;
   vertical-align: middle;
+  padding-right: 5px;
 }
 
 .popup__avatar {
